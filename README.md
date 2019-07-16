@@ -6,4 +6,4 @@
     1. If the conversion is successful, push the converted Yourbase YAML to GitHub and add a **Yes** in the **converted?** column.
     2. If the conversion is unsuccessful and if it’s due to a limitation in **yb**, create an issue in https://github.com/microclusters/issues/issues and put a link to the issue URL in the **remarks** column for that repo.
     3. If you had to tweak or skip some parts in the Travis YAML to work in YourBase, please note them down in the **remarks** column for that repo.
-5. During this exercise if you found that YourBase docs can be improved, submit a PR to <YOURBASE_DOCS>
+5. During this exercise if you found that YourBase docs can be improved, submit a PR to https://github.com/yourbase/ybdocs.
