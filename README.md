@@ -1,6 +1,6 @@
 ## Instructions for migrating projects to YourBase
 1. Download and install `yb` from https://dl.equinox.io/yourbase/yb/stable
-2. Go to [this](https://github.com/project-kotinos/issues/milestones?direction=desc&sort=completeness&state=open) link and pick an issue from the Milestone that's closest to completion.  (i.e., Don't go to Batch 2 if Bactch 1 is incomplete.)
+2. Go to [this](https://github.com/project-kotinos/issues/milestones?direction=desc&sort=completeness&state=open) link and pick an issue from the Milestone that's closest to completion.  (i.e., Don't go to Batch 2 if Batch 1 is incomplete.)
 3. Assign the issue to yourself.
 3. Clone the project that is mentioned in the issue description and convert the `.travis.yml` to Yourbase YAML. (Follow the documentation here: https://yourbase-docs-staging.s3-us-west-2.amazonaws.com/configuration/yourbase_yaml.html )
 4. Run `yb build` for the project that you just converted.
